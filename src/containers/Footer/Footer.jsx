@@ -1,8 +1,7 @@
 import React from "react";
 import { FooterWrapper } from "./Footer.style";
-import { MdOutlineSubscriptions,MdOutlineVideoLibrary } from "react-icons/md";
-import { AiOutlineHome, AiOutlineHeart, AiOutlineSearch } from "react-icons/ai";
-import { BsPerson } from "react-icons/bs";
+import { MdOutlineSubscriptions, MdOutlineVideoLibrary } from "react-icons/md";
+import { AiOutlineHome, AiOutlineSearch } from "react-icons/ai";
 const Footer = () => {
   return (
     <FooterWrapper>
