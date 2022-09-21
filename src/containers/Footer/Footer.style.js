@@ -5,7 +5,7 @@ export const FooterWrapper = styled.div`
   left: 0;
   bottom: 0;
   width: 100%;
-  height: 50px;
+  height: 45px;
   background-color: #181818;
   display: flex;
   align-items: center;

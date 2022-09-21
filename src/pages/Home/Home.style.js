@@ -5,6 +5,7 @@ export const HomeWrapper = styled.div`
   height: 500px;
   background-color: #212121;
   border-top: 1px solid white;
+  
 `;
 export const Explore = styled.div`
   width: 100%;
